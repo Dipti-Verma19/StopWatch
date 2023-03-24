@@ -31,7 +31,7 @@ start.addEventListener("click", () => {
 })
 
 
-lap.addEventListener("click", () => {
+lap.addEventListener("click", () => {//event listener
     if (lapmode) {
 
         div = document.createElement("div");
